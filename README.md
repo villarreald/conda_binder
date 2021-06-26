@@ -1,2 +1,2 @@
 # conda_binder
-Basic Conda based Binder
+Conda-based Binder for Python, R, and Bash scripting
