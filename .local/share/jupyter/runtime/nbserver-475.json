@@ -1,0 +1,12 @@
+{
+  "base_url": "/user/villarreald-conda_binder-pral7w9a/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 475,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "SLDD8tJmRGCeNqYzSmI5wA",
+  "url": "http://0.0.0.0:8888/user/villarreald-conda_binder-pral7w9a/"
+}
